@@ -2,9 +2,9 @@
 
 Responsive buttons that do the following functions:
 
-1.) Shrink
+Shrink
   - The Box will shrink in size.
-2.) Grow
+Grow
   - The Box will grow in size.
-3.) Color
+Color
   - The Box will turn blue in color.
